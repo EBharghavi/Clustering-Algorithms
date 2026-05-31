@@ -1,4 +1,4 @@
-# PRODIGY_ML_02
+
 # Clustering Algorithms
 Clustering algorithms are powerful tools in machine learning for grouping similar data points together. In this study, we will explore four popular clustering algorithms: K-means, Hierarchical, DBSCAN, and Affinity Propagation.
 
